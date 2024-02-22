@@ -1,2 +1,4 @@
-foo:
-    bar
+.PHONY: all
+
+all:
+	echo "Hello, world!"
