@@ -1,0 +1,9 @@
+{
+  "name": "alterae's Makefile Syntax",
+  "version": "0.0.1",
+  "authors": [
+    "alterae <alterae@pm.me>"
+  ],
+  "description": "Adds Makefile syntax support to the Zed text editor.",
+  "repository": "https://github.com/alterae/zed-makefile-syntax"
+}
